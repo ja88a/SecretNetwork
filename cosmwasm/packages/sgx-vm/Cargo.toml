@@ -67,7 +67,7 @@ sgx_types = { path = "../../../third_party/incubator-teaclave-sgx-sdk/sgx_types"
 sgx_urts = { path = "../../../third_party/incubator-teaclave-sgx-sdk/sgx_urts" }
 log = "0.4.8"
 base64 = "0.12.0"
-parking_lot = "0.11"
+parking_lot = "0.12"
 num_cpus = "1.14.0"
 
 [dev-dependencies]
